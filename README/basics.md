@@ -1,4 +1,4 @@
-# 🫏 Go for Donkeys: The "I Don't Know Anything" Guide
+# The "I Don't Know Anything" Guide
 
 Hello friend! If you are as confused as a donkey in a library, don't worry. Go (Golang) is simple. Let's break it down like we're eating hay.
 
